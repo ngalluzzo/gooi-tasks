@@ -1,0 +1,17 @@
+{
+  "name": "Gooi Tasks",
+  "version": "0.1.0",
+  "platform": "darwin-arm64",
+  "artifacts": [
+    {
+      "filename": "gooi-tasks-0.1.0-darwin-arm64.tar.gz",
+      "format": "tar.gz",
+      "sha256": "994224ca06ca53b5410f63551ded3806846e48925ddee5fb3f91ce83471c611b"
+    },
+    {
+      "filename": "gooi-tasks-0.1.0-darwin-arm64.mcpb",
+      "format": "mcpb",
+      "sha256": "3ca79f7cf2cad2ebb47e4f616198fb7f9024f03ab9dcde399c40ab55acb57e04"
+    }
+  ]
+}
